@@ -75,6 +75,6 @@ Este repositório traz uma base modular para jogos em Python usando Pygame, com 
 Consulte as licenças dos arquivos de música utilizados. Recomenda-se uso de músicas livres de direitos ou Creative Commons.
 
 ---
-**Autor:** Plusnar
+**Autor:** Plusnar (William Fagundes)
 **Versão:** 1.0
-**Ano:** 2024
+**Ano:** 2025
