@@ -1,0 +1,5 @@
+
+target/ linguist-vendored
+**/*.html linguist-vendored
+docs/ linguist-vendored
+**/*.roff linguist-vendored
